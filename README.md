@@ -3,12 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Hareesh%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Building%20things%20that%20learn&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vaka+Hareesh+Reddy;3rd+Year+CSE+%E2%80%93+AI%2FML+%40+VIT+Chennai;Building+Deep+Learning+%26+Computer+Vision+Systems;Researching+Remote+Sensing+%2B+Transformers;Always+Learning.+Always+Shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vaka+Hareesh+Reddy;Final+Year+CSE+%E2%80%93+AI%2FML+%40+VIT+Chennai;Building+Deep+Learning+%26+Computer+Vision+Systems;Researching+Remote+Sensing+%2B+Transformers;Open+to+AI%2FML+%26+SDE+Opportunities" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=vakahareeshreddy&label=Profile%20Views&color=2c5364&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20SDE%20Roles-2c5364?style=flat"/>
 <a href="https://www.linkedin.com/in/vaka-hareesh-reddy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
@@ -22,7 +23,7 @@
 class HareeshReddy:
     def __init__(self):
         self.full_name   = "Vaka Hareesh Reddy"
-        self.role        = "B.Tech CSE (AI/ML) — 3rd Year, VIT Chennai"
+        self.role        = "B.Tech CSE (AI/ML) — Final Year, VIT Chennai (Batch 2027)"
         self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
         self.current_work = "Siamese Swin Transformer for LULC Change Detection"
         self.interests   = ["Deep Learning", "Computer Vision", "Remote Sensing", "Explainable AI"]
@@ -35,7 +36,7 @@ me = HareeshReddy()
 me.say_hi()
 ```
 
-- 🎓 I'm a **3rd-year B.Tech CSE (AI/ML)** student at **VIT Chennai**, graduating in 2027
+- 🎓 I'm a **final-year B.Tech CSE (AI/ML)** student at **VIT Chennai**, graduating in 2027
 - 🔭 Currently working on a **research mini-project**: LULC change detection in Chennai using a **Siamese Swin Transformer** architecture (targeting publication in *MDPI Remote Sensing*)
 - 🌱 Deepening my skills in **DSA, applied ML, and explainable AI (XAI)**
 - 💡 I like turning research papers into working, demoable systems
@@ -155,7 +156,7 @@ Cinematic personal portfolio where scrolling drives a camera through a solar sys
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vaka-hareesh-reddy">
+<a href="https://www.linkedin.com/in/hareesh-reddy-vaka">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:your.email@example.com">
